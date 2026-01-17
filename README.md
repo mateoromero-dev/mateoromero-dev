@@ -72,8 +72,9 @@ A web application for posting and managing rental properties.
 
 ### 📊 GitHub Stats
 <!-- Replace "mateoromero-dev" below with your ACTUAL new GitHub username -->
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoromero-dev&show_icons=true&theme=tokyonight)
-
+<!--![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoromero-dev&show_icons=true&theme=tokyonight)-->
+<!-- Streak Stats (Working Replacement) -->
+![Mateo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateoromero-dev&theme=tokyonight&hide_border=true)
 ---
 
 ### 🤝 Connect with me
